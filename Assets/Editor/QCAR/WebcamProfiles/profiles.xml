@@ -1,0 +1,10 @@
+<webcam deviceName="USB 2.0 Camera">
+    <windows>
+        <!-- size of the web cam texture requested from Unity -->
+        <requestedTextureWidth>320</requestedTextureWidth>
+        <requestedTextureHeight>240</requestedTextureHeight>
+        <!-- size of the texture Unity's web cam texture will be rescaled to -->
+        <resampledTextureWidth>320</resampledTextureWidth>
+        <resampledTextureHeight>240</resampledTextureHeight>
+    </windows>
+</webcam>
